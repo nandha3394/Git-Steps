@@ -1,0 +1,11 @@
+Git steps to follow
+----------------------
+1) add repo in github UI
+2) go to proj location in local
+3) git init
+4) git remote add origin {clone-URL}
+5) git pull
+6) git checkout -b {branch_name}
+7) git add .
+8) git commit -am "MESSAGE"
+9) git push -u origin {branch_name}
